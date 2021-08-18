@@ -1,0 +1,34 @@
+{
+  "name": "abhayanand",
+  "version": "1.0.0",
+  "description": "My Personal NPM Business Card!",
+  "main": "index.js",
+  "bin": {
+    "abhayanand": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhay0809/Abhay-NPM-Card.git"
+  },
+  "keywords": [
+    "NPM",
+    "Node",
+    "Card"
+  ],
+  "author": "Abhay Anand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhay0809/Abhay-NPM-Card/issues"
+  },
+  "homepage": "https://github.com/Abhay0809/Abhay-NPM-Card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.2",
+    "open": "^8.2.1"
+  }
+}
