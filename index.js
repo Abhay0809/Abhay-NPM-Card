@@ -44,7 +44,7 @@ const data = {
     instagram: chalk.gray("https://www.instagram.com/") + chalk.hex('#cd486b').bold("hashtag_abhay"),
     twitter: chalk.gray("https://twitter.com/") + chalk.hex('#00acee').bold("codo__sapien"),
     github: chalk.gray("https://github.com/") + chalk.hex('#f5f5f5').bold("Abhay0809"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.cyan.bold("abhay-anand1108"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.cyan.bold("abhay-anand08"),
     web: chalk.hex('#FF6666').bold("https://abhay-web-folio.netlify.app/"),
     npx: chalk.greenBright("npx") + " " + chalk.white.bold("abhayanand"),
 
