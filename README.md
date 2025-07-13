@@ -9,10 +9,11 @@
 Via npx:
 
 Type below command in terminal.
+
 ```
 npx abhayanand
 ```
 
 ## Preview
 
-![Preview Image](Screenshot.jpg)
+![Preview Image](Demo.png)
