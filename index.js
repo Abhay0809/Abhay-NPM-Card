@@ -40,11 +40,11 @@ const questions = [
 const data = {
     name: chalk.bold.green("                                            ") + chalk.bold.hex('#ff00ff').underline("Abhay Anand"),
     subhead: chalk.bold.white("abhayanand $ ") + chalk.bold.green(" cd aboutabhay"),
-    profession: `${chalk.white("B.Tech Student in")} ${chalk.hex("#fccc63").bold("Information Technology")}`,
+    profession: `${chalk.white("Associate QA Engineer at")} ${chalk.hex("#fccc63").bold("Indus Net Technology")}`,
     instagram: chalk.gray("https://www.instagram.com/") + chalk.hex('#cd486b').bold("hashtag_abhay"),
-    twitter: chalk.gray("https://twitter.com/") + chalk.hex('#00acee').bold("codo__sapien"),
-    github: chalk.gray("https://github.com/") + chalk.hex('#f5f5f5').bold("Abhay0809"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.cyan.bold("abhay-anand08"),
+    github: chalk.gray("https://github.com/") + chalk.hex('#f5f5f5').bold("Abhay0809"),
+    twitter: chalk.gray("https://twitter.com/") + chalk.hex('#00acee').bold("codo__sapien"),
     web: chalk.hex('#FF6666').bold("https://abhay-web-folio.netlify.app/"),
     npx: chalk.greenBright("npx") + " " + chalk.white.bold("abhayanand"),
 
